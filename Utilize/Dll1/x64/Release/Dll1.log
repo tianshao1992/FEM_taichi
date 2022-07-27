@@ -1,0 +1,11 @@
+﻿  dllmain.cpp
+E:\Saves\FEM_2020\FEM_taichi_cpu\Utilize\Dll1\dllmain.cpp(32): warning C4326: “main”的返回类型应为“int”而非“void”
+E:\Saves\FEM_2020\FEM_taichi_cpu\Utilize\Dll1\dllmain.cpp(38): warning C4101: “index”: 未引用的局部变量
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+    正在创建库 E:\Saves\FEM_2020\FEM_taichi_cpu\Utilize\Dll1\x64\Release\Dll1.lib 和对象 E:\Saves\FEM_2020\FEM_taichi_cpu\Utilize\Dll1\x64\Release\Dll1.exp
+dllmain.obj : error LNK2001: 无法解析的外部符号 __imp_tecdat142
+dllmain.obj : error LNK2001: 无法解析的外部符号 __imp_tecnode142
+dllmain.obj : error LNK2001: 无法解析的外部符号 __imp_tecend142
+dllmain.obj : error LNK2001: 无法解析的外部符号 __imp_teczne142
+dllmain.obj : error LNK2001: 无法解析的外部符号 __imp_tecini142
+E:\Saves\FEM_2020\FEM_taichi_cpu\Utilize\Dll1\x64\Release\Dll1.dll : fatal error LNK1120: 5 个无法解析的外部命令

@@ -1,0 +1,4 @@
+C:\Program Files\Tecplot\Tecplot 360 EX 2018 R1\util\tecio\examples\Dll1\x64\Debug\Dll1.dll
+C:\Program Files\Tecplot\Tecplot 360 EX 2018 R1\util\tecio\examples\Dll1\x64\Debug\Dll1.pdb
+C:\Users\euljmh\Documents\WeChat Files\wxid_z9nparbysjnl22\FileStorage\File\2020-09\FEM_taichi_cpu(1)\utilize\Dll1\x64\Debug\Dll1.dll
+C:\Users\euljmh\Documents\WeChat Files\wxid_z9nparbysjnl22\FileStorage\File\2020-09\FEM_taichi_cpu(1)\utilize\Dll1\x64\Debug\Dll1.pdb

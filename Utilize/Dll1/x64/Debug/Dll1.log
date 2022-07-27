@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+F:\Saves\FEM_2020\FEM_taichi_cpu\Utilize\Dll1\dllmain.cpp(29): warning C4326: “main”的返回类型应为“int”而非“void”
+F:\Saves\FEM_2020\FEM_taichi_cpu\Utilize\Dll1\dllmain.cpp(35): warning C4101: “index”: 未引用的局部变量
+    正在创建库 F:\Saves\FEM_2020\FEM_taichi_cpu\Utilize\Dll1\x64\Debug\Dll1.lib 和对象 F:\Saves\FEM_2020\FEM_taichi_cpu\Utilize\Dll1\x64\Debug\Dll1.exp
+  Dll1.vcxproj -> F:\Saves\FEM_2020\FEM_taichi_cpu\Utilize\Dll1\x64\Debug\Dll1.dll

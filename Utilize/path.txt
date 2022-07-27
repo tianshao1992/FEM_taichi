@@ -1,0 +1,2 @@
+INCLUDE_PATH ： F:\ProgramFiles\Tecplot\Tecplot 360 EX 2021 R2\include
+ILB_PATH:    F:\ProgramFiles\Tecplot\Tecplot 360 EX 2021 R2\lib
